@@ -1,0 +1,172 @@
+[
+  {
+    "id": "evt-001",
+    "partId": "part-013",
+    "operatorId": "op-002",
+    "stage": "doca",
+    "type": "validacao",
+    "result": "aprovada",
+    "minutesAgo": 87000,
+    "note": null
+  },
+  {
+    "id": "evt-002",
+    "partId": "part-013",
+    "operatorId": "op-003",
+    "stage": "meio",
+    "type": "validacao",
+    "result": "aprovada",
+    "minutesAgo": 72500,
+    "note": null
+  },
+  {
+    "id": "evt-003",
+    "partId": "part-013",
+    "operatorId": "op-006",
+    "stage": "destruicao",
+    "type": "conclusao",
+    "result": "concluida",
+    "minutesAgo": 65000,
+    "note": null
+  },
+  {
+    "id": "evt-004",
+    "partId": "part-012",
+    "operatorId": "op-001",
+    "stage": "doca",
+    "type": "validacao",
+    "result": "aprovada",
+    "minutesAgo": 44000,
+    "note": null
+  },
+  {
+    "id": "evt-005",
+    "partId": "part-008",
+    "operatorId": "op-002",
+    "stage": "doca",
+    "type": "validacao",
+    "result": "aprovada",
+    "minutesAgo": 43500,
+    "note": null
+  },
+  {
+    "id": "evt-006",
+    "partId": "part-012",
+    "operatorId": "op-004",
+    "stage": "meio",
+    "type": "validacao",
+    "result": "aprovada",
+    "minutesAgo": 29500,
+    "note": null
+  },
+  {
+    "id": "evt-007",
+    "partId": "part-007",
+    "operatorId": "op-001",
+    "stage": "doca",
+    "type": "validacao",
+    "result": "aprovada",
+    "minutesAgo": 29200,
+    "note": null
+  },
+  {
+    "id": "evt-008",
+    "partId": "part-009",
+    "operatorId": "op-001",
+    "stage": "doca",
+    "type": "validacao",
+    "result": "aprovada",
+    "minutesAgo": 21900,
+    "note": null
+  },
+  {
+    "id": "evt-009",
+    "partId": "part-010",
+    "operatorId": "op-001",
+    "stage": "doca",
+    "type": "validacao",
+    "result": "aprovada",
+    "minutesAgo": 14700,
+    "note": null
+  },
+  {
+    "id": "evt-010",
+    "partId": "part-012",
+    "operatorId": "op-005",
+    "stage": "destruicao",
+    "type": "conclusao",
+    "result": "concluida",
+    "minutesAgo": 14500,
+    "note": null
+  },
+  {
+    "id": "evt-011",
+    "partId": "part-007",
+    "operatorId": "op-003",
+    "stage": "meio",
+    "type": "validacao",
+    "result": "aprovada",
+    "minutesAgo": 8700,
+    "note": null
+  },
+  {
+    "id": "evt-012",
+    "partId": "part-005",
+    "operatorId": "op-001",
+    "stage": "doca",
+    "type": "validacao",
+    "result": "aprovada",
+    "minutesAgo": 5800,
+    "note": null
+  },
+  {
+    "id": "evt-013",
+    "partId": "part-008",
+    "operatorId": "op-004",
+    "stage": "meio",
+    "type": "validacao",
+    "result": "aprovada",
+    "minutesAgo": 3000,
+    "note": null
+  },
+  {
+    "id": "evt-014",
+    "partId": "part-010",
+    "operatorId": "op-003",
+    "stage": "meio",
+    "type": "revisao_solicitada",
+    "result": "enviada_para_revisao",
+    "minutesAgo": 2900,
+    "note": "Carcaça trincada identificada na inspeção do Meio."
+  },
+  {
+    "id": "evt-015",
+    "partId": "part-011",
+    "operatorId": "op-002",
+    "stage": "doca",
+    "type": "revisao_solicitada",
+    "result": "enviada_para_revisao",
+    "minutesAgo": 1700,
+    "note": "Peça consta como descartada no laudo do laboratório."
+  },
+  {
+    "id": "evt-016",
+    "partId": "part-009",
+    "operatorId": "op-003",
+    "stage": "meio",
+    "type": "validacao",
+    "result": "aprovada",
+    "minutesAgo": 1500,
+    "note": null
+  },
+  {
+    "id": "evt-017",
+    "partId": "part-006",
+    "operatorId": "op-002",
+    "stage": "doca",
+    "type": "validacao",
+    "result": "aprovada",
+    "minutesAgo": 720,
+    "note": null
+  }
+]

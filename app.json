@@ -1,0 +1,53 @@
+{
+  "expo": {
+    "name": "Renault Tracer",
+    "slug": "renault-tracer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "renaulttracer",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.gustavotriaquim.renaulttracer",
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF",
+        "foregroundImage": "./assets/images/android-icon-foreground.png",
+        "backgroundImage": "./assets/images/android-icon-background.png",
+        "monochromeImage": "./assets/images/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "permissions": [
+        "android.permission.CAMERA"
+      ]
+    },
+    "plugins": [
+      "expo-router",
+      "expo-dev-client",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#FFFFFF",
+          "image": "./assets/images/splash-icon.png",
+          "imageWidth": 120
+        }
+      ],
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "O Renault Tracer usa a câmera para ler, por OCR, a matrícula do crachá e o número impresso nas peças.",
+          "recordAudioAndroid": false
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "668e4e03-b013-479c-8769-33c5db483ad3"
+      }
+    },
+    "owner": "gustavotriaquim"
+  }
+}

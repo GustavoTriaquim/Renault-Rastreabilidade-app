@@ -1,0 +1,282 @@
+[
+  {
+    "id": "ntf-001",
+    "recipientOperatorId": "op-003",
+    "type": "peca_disponivel",
+    "partId": "part-013",
+    "reviewId": null,
+    "sourceEventId": "evt-001",
+    "minutesAgo": 87000,
+    "read": true
+  },
+  {
+    "id": "ntf-002",
+    "recipientOperatorId": "op-004",
+    "type": "peca_disponivel",
+    "partId": "part-013",
+    "reviewId": null,
+    "sourceEventId": "evt-001",
+    "minutesAgo": 87000,
+    "read": true
+  },
+  {
+    "id": "ntf-003",
+    "recipientOperatorId": "op-005",
+    "type": "peca_disponivel",
+    "partId": "part-013",
+    "reviewId": null,
+    "sourceEventId": "evt-002",
+    "minutesAgo": 72500,
+    "read": true
+  },
+  {
+    "id": "ntf-004",
+    "recipientOperatorId": "op-006",
+    "type": "peca_disponivel",
+    "partId": "part-013",
+    "reviewId": null,
+    "sourceEventId": "evt-002",
+    "minutesAgo": 72500,
+    "read": true
+  },
+  {
+    "id": "ntf-005",
+    "recipientOperatorId": "op-003",
+    "type": "peca_disponivel",
+    "partId": "part-012",
+    "reviewId": null,
+    "sourceEventId": "evt-004",
+    "minutesAgo": 44000,
+    "read": true
+  },
+  {
+    "id": "ntf-006",
+    "recipientOperatorId": "op-004",
+    "type": "peca_disponivel",
+    "partId": "part-012",
+    "reviewId": null,
+    "sourceEventId": "evt-004",
+    "minutesAgo": 44000,
+    "read": true
+  },
+  {
+    "id": "ntf-007",
+    "recipientOperatorId": "op-003",
+    "type": "peca_disponivel",
+    "partId": "part-008",
+    "reviewId": null,
+    "sourceEventId": "evt-005",
+    "minutesAgo": 43500,
+    "read": true
+  },
+  {
+    "id": "ntf-008",
+    "recipientOperatorId": "op-004",
+    "type": "peca_disponivel",
+    "partId": "part-008",
+    "reviewId": null,
+    "sourceEventId": "evt-005",
+    "minutesAgo": 43500,
+    "read": true
+  },
+  {
+    "id": "ntf-009",
+    "recipientOperatorId": "op-005",
+    "type": "peca_disponivel",
+    "partId": "part-012",
+    "reviewId": null,
+    "sourceEventId": "evt-006",
+    "minutesAgo": 29500,
+    "read": true
+  },
+  {
+    "id": "ntf-010",
+    "recipientOperatorId": "op-006",
+    "type": "peca_disponivel",
+    "partId": "part-012",
+    "reviewId": null,
+    "sourceEventId": "evt-006",
+    "minutesAgo": 29500,
+    "read": true
+  },
+  {
+    "id": "ntf-011",
+    "recipientOperatorId": "op-003",
+    "type": "peca_disponivel",
+    "partId": "part-007",
+    "reviewId": null,
+    "sourceEventId": "evt-007",
+    "minutesAgo": 29200,
+    "read": true
+  },
+  {
+    "id": "ntf-012",
+    "recipientOperatorId": "op-004",
+    "type": "peca_disponivel",
+    "partId": "part-007",
+    "reviewId": null,
+    "sourceEventId": "evt-007",
+    "minutesAgo": 29200,
+    "read": true
+  },
+  {
+    "id": "ntf-013",
+    "recipientOperatorId": "op-003",
+    "type": "peca_disponivel",
+    "partId": "part-009",
+    "reviewId": null,
+    "sourceEventId": "evt-008",
+    "minutesAgo": 21900,
+    "read": true
+  },
+  {
+    "id": "ntf-014",
+    "recipientOperatorId": "op-004",
+    "type": "peca_disponivel",
+    "partId": "part-009",
+    "reviewId": null,
+    "sourceEventId": "evt-008",
+    "minutesAgo": 21900,
+    "read": true
+  },
+  {
+    "id": "ntf-015",
+    "recipientOperatorId": "op-003",
+    "type": "peca_disponivel",
+    "partId": "part-010",
+    "reviewId": null,
+    "sourceEventId": "evt-009",
+    "minutesAgo": 14700,
+    "read": true
+  },
+  {
+    "id": "ntf-016",
+    "recipientOperatorId": "op-004",
+    "type": "peca_disponivel",
+    "partId": "part-010",
+    "reviewId": null,
+    "sourceEventId": "evt-009",
+    "minutesAgo": 14700,
+    "read": true
+  },
+  {
+    "id": "ntf-017",
+    "recipientOperatorId": "op-005",
+    "type": "peca_disponivel",
+    "partId": "part-007",
+    "reviewId": null,
+    "sourceEventId": "evt-011",
+    "minutesAgo": 8700,
+    "read": true
+  },
+  {
+    "id": "ntf-018",
+    "recipientOperatorId": "op-006",
+    "type": "peca_disponivel",
+    "partId": "part-007",
+    "reviewId": null,
+    "sourceEventId": "evt-011",
+    "minutesAgo": 8700,
+    "read": true
+  },
+  {
+    "id": "ntf-019",
+    "recipientOperatorId": "op-003",
+    "type": "peca_disponivel",
+    "partId": "part-005",
+    "reviewId": null,
+    "sourceEventId": "evt-012",
+    "minutesAgo": 5800,
+    "read": true
+  },
+  {
+    "id": "ntf-020",
+    "recipientOperatorId": "op-004",
+    "type": "peca_disponivel",
+    "partId": "part-005",
+    "reviewId": null,
+    "sourceEventId": "evt-012",
+    "minutesAgo": 5800,
+    "read": true
+  },
+  {
+    "id": "ntf-021",
+    "recipientOperatorId": "op-005",
+    "type": "peca_disponivel",
+    "partId": "part-008",
+    "reviewId": null,
+    "sourceEventId": "evt-013",
+    "minutesAgo": 3000,
+    "read": false
+  },
+  {
+    "id": "ntf-022",
+    "recipientOperatorId": "op-006",
+    "type": "peca_disponivel",
+    "partId": "part-008",
+    "reviewId": null,
+    "sourceEventId": "evt-013",
+    "minutesAgo": 3000,
+    "read": true
+  },
+  {
+    "id": "ntf-023",
+    "recipientOperatorId": "op-003",
+    "type": "revisao_atualizada",
+    "partId": "part-010",
+    "reviewId": "rev-001",
+    "sourceEventId": "evt-014",
+    "minutesAgo": 2900,
+    "read": false
+  },
+  {
+    "id": "ntf-024",
+    "recipientOperatorId": "op-002",
+    "type": "revisao_atualizada",
+    "partId": "part-011",
+    "reviewId": "rev-002",
+    "sourceEventId": "evt-015",
+    "minutesAgo": 1700,
+    "read": false
+  },
+  {
+    "id": "ntf-025",
+    "recipientOperatorId": "op-005",
+    "type": "peca_disponivel",
+    "partId": "part-009",
+    "reviewId": null,
+    "sourceEventId": "evt-016",
+    "minutesAgo": 1500,
+    "read": false
+  },
+  {
+    "id": "ntf-026",
+    "recipientOperatorId": "op-006",
+    "type": "peca_disponivel",
+    "partId": "part-009",
+    "reviewId": null,
+    "sourceEventId": "evt-016",
+    "minutesAgo": 1500,
+    "read": false
+  },
+  {
+    "id": "ntf-027",
+    "recipientOperatorId": "op-003",
+    "type": "peca_disponivel",
+    "partId": "part-006",
+    "reviewId": null,
+    "sourceEventId": "evt-017",
+    "minutesAgo": 720,
+    "read": false
+  },
+  {
+    "id": "ntf-028",
+    "recipientOperatorId": "op-004",
+    "type": "peca_disponivel",
+    "partId": "part-006",
+    "reviewId": null,
+    "sourceEventId": "evt-017",
+    "minutesAgo": 720,
+    "read": false
+  }
+]

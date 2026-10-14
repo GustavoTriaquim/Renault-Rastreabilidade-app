@@ -1,0 +1,24 @@
+[
+  {
+    "id": "rev-001",
+    "partId": "part-010",
+    "requestedByOperatorId": "op-003",
+    "stage": "meio",
+    "reason": "peca_quebrada",
+    "justification": "Carcaça trincada identificada na inspeção do Meio.",
+    "requestedMinutesAgo": 2900,
+    "status": "em_analise",
+    "decision": null
+  },
+  {
+    "id": "rev-002",
+    "partId": "part-011",
+    "requestedByOperatorId": "op-002",
+    "stage": "doca",
+    "reason": "peca_descartada",
+    "justification": "Peça consta como descartada no laudo do laboratório.",
+    "requestedMinutesAgo": 1700,
+    "status": "em_analise",
+    "decision": null
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "op-001",
+    "registration": "483917",
+    "name": "Carlos Almeida",
+    "stage": "doca",
+    "active": true
+  },
+  {
+    "id": "op-002",
+    "registration": "574206",
+    "name": "Fernanda Lima",
+    "stage": "doca",
+    "active": true
+  },
+  {
+    "id": "op-003",
+    "registration": "619853",
+    "name": "Rafael Souza",
+    "stage": "meio",
+    "active": true
+  },
+  {
+    "id": "op-004",
+    "registration": "702418",
+    "name": "Juliana Costa",
+    "stage": "meio",
+    "active": true
+  },
+  {
+    "id": "op-005",
+    "registration": "835296",
+    "name": "Marcos Pereira",
+    "stage": "destruicao",
+    "active": true
+  },
+  {
+    "id": "op-006",
+    "registration": "941762",
+    "name": "Patrícia Rocha",
+    "stage": "destruicao",
+    "active": true
+  },
+  {
+    "id": "op-007",
+    "registration": "358071",
+    "name": "Ricardo Nunes",
+    "stage": "meio",
+    "active": false
+  }
+]
